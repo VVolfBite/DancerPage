@@ -57,10 +57,12 @@ sections:
   
   - block: markdown
     content:
-      title: 想要了解更多?
-      subtitle:
+      title:
+      subtitle: Want to know more ?
       text: |
-        {{% cta cta_link="./people/" cta_text="查看团队 →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
 ---
+
+# 

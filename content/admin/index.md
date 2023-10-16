@@ -7,4 +7,3 @@ outputs:
   - HTML
 ---
 
-### This is a content admin test page.
