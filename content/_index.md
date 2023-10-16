@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: DancerGroup
+title: DanceGroup
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Dancer Group
+        Dance Group
       image:
         filename: welcome.jpg
       text: |
