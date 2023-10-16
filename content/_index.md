@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Dancer Group
       image:
         filename: welcome.jpg
       text: |
@@ -58,12 +57,10 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: 想要了解更多?
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="查看团队 →" %}}
     design:
       columns: '1'
 ---
-
-## This is a test index.
