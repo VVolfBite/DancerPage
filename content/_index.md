@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: DancerGroup
 date: 2022-10-24
 type: landing
 
@@ -65,3 +65,5 @@ sections:
     design:
       columns: '1'
 ---
+
+## This is a test index.
