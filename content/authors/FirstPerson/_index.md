@@ -1,6 +1,6 @@
 ---
 # Display name
-title: WenLingxiaoLi
+title: FirstPerson
 
 # Full name (for SEO)
 first_name: Li
