@@ -6,15 +6,11 @@ title: Yuchao Zhang
 first_name: Zhang
 last_name: Yuchao
 
-# Username (this should match the folder name)
-authors:
-  - YuchaoZhang
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor of School of Computer Science
+role:  Associate Professor of School of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +30,7 @@ education:
   courses:
     - course: Research Associate
       institution: Wolfson College, Cambridge University
-      year: 2021-2022
+      year: 2021
     - course: Outstanding PhD graduate of CS Department
       institution: Tsinghua University
       year: 2017
@@ -47,7 +43,6 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yczhang@bupt.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yczhang@bupt.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
