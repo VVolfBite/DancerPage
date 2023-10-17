@@ -11,7 +11,7 @@ banner:
 ---
 
 **Books**
-1. **Yuchao Zhang**, Ke Xu. [Network Management in Cloud and Edge Computing.](../../assets/doc/2023-wcnc-fravar.pdf) Springer. ISBN: 978-981-15-0137-1
+1. **Yuchao Zhang**, Ke Xu. [Network Management in Cloud and Edge Computing.](./2023-wcnc-fravar.pdf) Springer. ISBN: 978-981-15-0137-1
 2. 张宇超，徐恪 著. 张宇超 译. 云计算和边缘计算中的网络管理. 机械工业出版社. ISBN: 978-7-111-66983-8
 3. Chengzhong Xu, Yunni Xia, Yuchao Zhang, Liangjie Zhang. Web Services. Springer. ISBN: 978-3-030-96139-8
 4. Yuchao Zhang, Liangjie Zhang. Web Services - 2022, Springer. ISBN: 978-3-031-23579-5
