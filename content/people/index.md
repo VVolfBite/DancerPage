@@ -13,10 +13,6 @@ sections:
       # 设置分组
       user_groups:
           - Leader
-          - PhD
-          - Mphil
-          - Alumni.PhD
-          - Alumni.Mphil
       sort_by: Params.last_name
       sort_ascending: true
     design:
