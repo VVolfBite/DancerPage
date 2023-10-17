@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: team.jpg
+            filename: team.jpg,team2.jpg,team3.jpg,team4.jpg,team5.jpg,team6.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---

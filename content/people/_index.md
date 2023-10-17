@@ -26,6 +26,7 @@ sections:
       show_social: false
 ---
 
+<br/>
 
 **I'm lucky to work with the following students.**
 
@@ -51,14 +52,24 @@ sections:
 **Alumni.**
 
 * [Lei Wang](https://github.com/wanglei1998) (Mphil 2020-2023, co-supervise with Prof. Xiangyang Gong, ByteDance - Beijing)
+
 * [Haoqiang Huang](https://github.com/Erii81) (Mphil 2020-2023, co-supervise with Prof. Xirong Que, CITIC Securities Co., Ltd - Shenzhen)
+
 * [Huan Zou](https://github.com/vickybull) (Mphil 2020-2023, co-supervise with Prof. Xirong Que, CMB Network Technology - Shenzhen)
+
 * Peizhuang Cong (PhD 2018-2023, co-supervise with Prof. Wendong Wang)
+
 * [Pengmiao Li](https://github.com/PengMLi) (PhD 2018-2023, co-supervise with Prof. Wendong Wang)
+
 * Shiyan Zhang (PhD 2015-2023, co-supervise with Prof. Xiangyang Gong)
+
 * [Chao Chen](https://github.com/curious0906) (MPhil 2018-2022, Beijing Yongyou Software Co., Ltd.)
+
 * Ran Wang (MPhil 2018-2021, Alibaba DAMO Academy)
+
 * Shuang Wu (MPhil 2018-2021, Bank Of China Sofeware Center)
+
+  <br/>
 
 
 **Congratulations!**
