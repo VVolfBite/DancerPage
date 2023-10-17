@@ -26,7 +26,9 @@ sections:
       show_social: false
 ---
 
+
 **I'm lucky to work with the following students.**
+
 * Wenlingxiao Li (Mphil student since 2023)
 * Ruihan Zhang (Mphil student since 2023)
 * Chenyue Zheng (Mphil student since 2023)
@@ -45,7 +47,9 @@ sections:
 * Jiachen Li (PhD student since 2020, co-supervise with Prof. Xiangyang Gong)  
 * Hao Ni (Mphil student since 2020, co-supervise with Prof. Wendong Wang)
 
+
 **Alumni.**
+
 * [Lei Wang](https://github.com/wanglei1998) (Mphil 2020-2023, co-supervise with Prof. Xiangyang Gong, ByteDance - Beijing)
 * [Haoqiang Huang](https://github.com/Erii81) (Mphil 2020-2023, co-supervise with Prof. Xirong Que, CITIC Securities Co., Ltd - Shenzhen)
 * [Huan Zou](https://github.com/vickybull) (Mphil 2020-2023, co-supervise with Prof. Xirong Que, CMB Network Technology - Shenzhen)
@@ -56,7 +60,9 @@ sections:
 * Ran Wang (MPhil 2018-2021, Alibaba DAMO Academy)
 * Shuang Wu (MPhil 2018-2021, Bank Of China Sofeware Center)
 
+
 **Congratulations!**
+
 * Xiaoxi Xue, Haoran Zhang, Zekun Han. 2023 Postgraduate Innovation and Entrepreneurship Project -- Level A，2023年研究生创新创业项目A级！
 * Xiaotian Wang, Huahai Zhang, Xiaofeng He, "China Optics Valley · Huawei Cup" The 19th China Postgraduate Mathematical Modeling Competition, National Second Prize! 2022年 “中国光谷·华为杯”第十九届中国研究生数学建模竞赛 国家二等奖
 * Peizhuang Cong won the National scholarship for doctoral students!
