@@ -10,7 +10,7 @@ banner:
   image: ''
 ---
 
-**Books**
+## Books
 1. ****Yuchao Zhang****, Ke Xu. [Network Management in Cloud and Edge Computing.](./2023-wcnc-fravar.pdf) Springer. ISBN: 978-981-15-0137-1
 2. 张宇超，徐恪 著. 张宇超 译. [云计算和边缘计算中的网络管理](https://item.jd.com/12781263.html). 机械工业出版社. ISBN: 978-7-111-66983-8
 3. Chengzhong Xu, Yunni Xia, **Yuchao Zhang**, Liangjie Zhang. [Web Services](https://link.springer.com/book/10.1007/978-3-030-96140-4?sap-outbound-id=C5D36F3361807294254FCAF63FBED4274F9C9889). Springer. ISBN: 978-3-030-96139-8
@@ -18,15 +18,15 @@ banner:
 
 
 
-**Publications​**
+## Publications​
 **​("NAMEs" are the students I supervise/co-supervise,  "#" indicates the corresponding author.)**
 ​
-**2023**
-[56] **Yuchao Zhang**, Xiaotian Wang, Xiaofeng He, Ning Zhang, Zibin Zheng, Ke Xu. Galaxy: A Scalable BFT and Privacy-Preserving Pub/Sub IoT Data Sharing Framework Based on Blockchain. IEEE Internet of Things Journal. (JCR Q1)
-[55] Jiachen Li, **Yuchao Zhang#**, Yiping Li, Xiangyang Gong, Wendong Wang. Gradient Calibration for Federated Learning on Non-I.I.D. Data. The 29th Annual International Conference On  Mobile Computing and Networking (ACM MobiCom) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
-[54] Xintong Lu, **Yuchao Zhang#**, Huan Zou, Yilei Liang, Jon Crowcroft. FedCOM: Efficient Personalized Federated Learning by Finding Your Best Peers. The 29th Annual International Conference On  Mobile Computing and Networking (ACM MobiCom) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
-[53] Haiyang Jiang, **Yuchao Zhang#**, Haoqiang Huang, Lei Wang, Xirong Que, Zhuo Jiang, Wendong Wang. Faca: Fast Aware and Competition-Avoided Balancing for Datacenter Network. The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023). Tianjin, China. 20-22 October 2023.
-[52] Peizhuang Cong, **Yuchao Zhang#**, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. DIT and Beyound: Inter-domain Routing with Intra-domain Awareness for IIoT. IEEE Internet of Things Journal. (JCR Q1)
+### 2023
+[56] **Yuchao Zhang**, <u>Xiaotian Wang</u>, Xiaofeng He, Ning Zhang, Zibin Zheng, Ke Xu. Galaxy: A Scalable BFT and Privacy-Preserving Pub/Sub IoT Data Sharing Framework Based on Blockchain. IEEE Internet of Things Journal. (**JCR Q1**)
+[55] <u>Jiachen Li</u>, **Yuchao Zhang#**, Yiping Li, Xiangyang Gong, Wendong Wang. Gradient Calibration for Federated Learning on Non-I.I.D. Data. The 29th Annual International Conference On  Mobile Computing and Networking (ACM **MobiCom**) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
+[54] <u>Xintong Lu</u>, **Yuchao Zhang#**, <u>Huan Zou</u>, Yilei Liang, Jon Crowcroft. FedCOM: Efficient Personalized Federated Learning by Finding Your Best Peers. The 29th Annual International Conference On  Mobile Computing and Networking (ACM **MobiCom**) 2nd FedEdge Workshop. Oct. 2-6, Madrid, Spain.
+[53] <u>Haiyang Jiang</u>, **Yuchao Zhang#**, <u>Haoqiang Huang</u>, <u>Lei Wang</u>, Xirong Que, Zhuo Jiang, Wendong Wang. Faca: Fast Aware and Competition-Avoided Balancing for Datacenter Network. The 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2023). Tianjin, China. 20-22 October 2023.
+[52] <u>Peizhuang Cong</u>, **Yuchao Zhang#**, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. DIT and Beyound: Inter-domain Routing with Intra-domain Awareness for IIoT. IEEE Internet of Things Journal. (**JCR Q1**)
 [51] **Yuchao Zhang#**, Xiaoxi Xue, Wenlong Wang, Yifan Zhang, Wei Liu, Jian Kuang, Xuesong Qiu, Zhaobin Wu, Hongfeng Gu, Yi Sun. AI-assisted Digitization of Traditional Education Method - Research and Practice. Computer Education Research Association of Chinese Universities. 11-14 July, 2023, Xiamen, China. (in Chinese) Best Paper Award
 [50] Xiaoxi Xue, **Yuchao Zhang#**. ABC: Adaptive Bitrate Algorithm Commander for Multi-client Video Streaming. 7th Asia-Pacific Workshop on Networking (APNet 2023) poster. June 29-30 Hong Kong SAR. 
 [49] Pengmiao Li, **Yuchao Zhang#**, Huahai Zhang, Wendong Wang, Ke Xu, Zhili Zhang. A Delayed Eviction Caching Replacement Strategy with Unified Standard for Edge Servers. Computer Networks. (JCR Q2) 
@@ -40,10 +40,10 @@ banner:
 [43] **Yuchao Zhang#**, Pengmiao Li, Peizhuang Cong, Huan Zou, Xiaotian Wang, Xiaofeng He. Web 3.0: Developments and Directions of the Future Internet Architecture? International Conference on Web Service (ICWS), Dec. 10 - 14, 2022. On-site: Honolulu, Hawaii, USA. Satellite Session: Sanya, Hainan, China. Invited Vision Paper.
 [42] Jiachen Li, **Yuchao Zhang#**, Yiping, Xiangyang Gong, Wendong Wang. DCD: A New Framework for Distillation Learning with Dynamic Curriculum. The 2022 IEEE International Conference on High Performance Computing and Communications (HPCC). Dec. 18-21, 2022. Chengdu, China. 
 [41] Xiaofeng He, **Yuchao Zhang#**, Xiaotian Wang. A Scalable Nested Blockchain Framework with Dynamic Node Slection Approach for IoT. 2022 IEEE International Performance, Computing, and Communications Conference (IPCCC), short paper. November 11th-13th, 2022. Austin, Texas, USA.
-[40] Huan Zou, **Yuchao Zhang#**, Xirong Que, Yilei Liang, Jon Crowcroft. Efficient Federated Learning Under Non-IID Conditions with Attackers. The 28th Annual International Conference On  Mobile Computing and Networking (MobiCom) 1st FedEdge Workshop. Oct. 17-21, Sydney Australia. (Hybrid)  
+[40] Huan Zou, **Yuchao Zhang#**, Xirong Que, Yilei Liang, Jon Crowcroft. Efficient Federated Learning Under Non-IID Conditions with Attackers. The 28th Annual International Conference On  Mobile Computing and Networking (**MobiCom**) 1st FedEdge Workshop. Oct. 17-21, Sydney Australia. (Hybrid)  
 [39] Pengmiao Li, **Yuchao Zhang#**, Wendong Wang, Weiliang Meng, Yi Zheng, Ke Xu, Zhili Zhang. Chameleon: A Self-adaptive Cache Strategy under the Ever-Changing Access Frequency in Edge Network. Computer Communications.
 [38] Shiyan Zhang, **Yuchao Zhang#**, Ran Wang, Xiangyang Gong. MO-FreeVM: Multi-Objective Server Release Algorithm for Cluster Resource Management. Cluster Computing.
-[37] Peizhuang Cong, **Yuchao Zhang#**, Bin Liu, Wendong Wang#, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  IEEE Journal on Selected Areas in Communications (JSAC). (CCF A, JCR Q1)
+[37] Peizhuang Cong, **Yuchao Zhang#**, Bin Liu, Wendong Wang#, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  IEEE Journal on Selected Areas in Communications (JSAC). (CCF A, **JCR Q1**)
 [36] Peizhuang Cong, **Yuchao Zhang#**, Lei Wang, Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing. 2022 IEEE/ACM 30th International Symposium on Quality Service (IWQoS). 10-12 June 2022, Virtual Conference.
 
 2021
@@ -62,24 +62,24 @@ banner:
 2020
 [24] **Yuchao Zhang**, Shuang Wu, Wendong Wang, Yunbo Han, Zhuoyun Zhang. HttpDNS: A Flexible Architecture for Edge Server Exploration and Selection in 5G Network. The 2020 IEEE International Conference on High Performance Computing and Communications (HPCC). 14-16 Dec., 2020, Fiji. (Virtual Conference)
 [23] 丛培壮,  张宇超#, 田野, 王文东, 李丹. 跨域场景下的联邦路由机制设计[J]. 电信科学, 2020, 36(10):29-36. 
-[22] Fuliang Li, Yaoguang Lu, Xingwei Wang, Yuanguo Bi, Tian Pan, **Yuchao Zhang**, Weichao Li, Yi Wang. Software-Defined Networking Assisted Content Delivery at Edge of Mobile Social Networks. IEEE Internet of Things Journal. 7(9). pp. 8122-8132. IF: 9.936, JCR Q1.
+[22] Fuliang Li, Yaoguang Lu, Xingwei Wang, Yuanguo Bi, Tian Pan, **Yuchao Zhang**, Weichao Li, Yi Wang. Software-Defined Networking Assisted Content Delivery at Edge of Mobile Social Networks. IEEE Internet of Things Journal. 7(9). pp. 8122-8132. IF: 9.936, **JCR Q1**.
 [21] **Yuchao Zhang**, Pengmiao Li, Zhili Zhang, Chaorui Zhang, Wendong Wang, Yishuang Ning, Bo Lian. GraphInf: A GCN-based Popularity Prediction System for Short Video Networks. 2020 International Conference on Web Services, Sept. 18-20, 2020, Honolulu, Hawaii, USA. (Virtual Conference)
 [20] Zhenbei Guo, Fuliang Li, **Yuchao Zhang**, Changsheng Zhang, Tian Pan, Weichao Li, Yi Wang. CMU: Towards Cooperative Content Caching With Usr Device in Mobile Edge Networks. 2020 International Conference on Web Services, Sept. 18-20, 2020, Honolulu, Hawaii, USA. (Virtual Conference)
 [19] **Yuchao Zhang**, Ye Tian,  Wendong Wang, Peizhuang Cong, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network. IEEE International Conference on Computer Communications (Infocom'2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference)
 [18] Yi Zhao, Ke Xu, Feng Yan, **Yuchao Zhang**, Yao Fu, Haiyang Wang. Auction-based High Timeliness Data Pricing under Mobile and Wireless Networks. IEEE International Conference on Communications (ICC'2020). 7-11 June 2020, Dublin, Ireland. (Virtual Conference)
-[17] **Yuchao Zhang**, Pengmiao Li, Zhili Zhang, Bo Bai, Gong Zhang, Wendong Wang, Bo Lian, Ke Xu. AutoSight: Distributed Edge Caching in Short Video Network. IEEE Network. 2020, 34(3), pp. 194-199. IF: 7.503, JCR Q1.
+[17] **Yuchao Zhang**, Pengmiao Li, Zhili Zhang, Bo Bai, Gong Zhang, Wendong Wang, Bo Lian, Ke Xu. AutoSight: Distributed Edge Caching in Short Video Network. IEEE Network. 2020, 34(3), pp. 194-199. IF: 7.503, **JCR Q1**.
 ​
 2019
 [16] Ran Wang, **Yuchao Zhang#**, Wendong Wang. An Inter-DC Scheduling System based on Dynamic Traffic Prediction. China Information and Communication Conference (CICC) 2019. 29 Nov. - 1 Dec. 2019. Chengdu China. (in Chinese) 
 [15] Peizhuang Cong, **Yuchao Zhang#**, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations. 2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop. 9-13 December, Waikoloa, HI, USA.
-[14] Liang Lv*, **Yuchao Zhang***, Yusen Li, Ke Xu, Dan Wang, Minghui Li, Xuan Cao, Qingqing Liang, Wendong Wang. Communication-aware Container Placement and Reassignment in Large-scale Internet Data Centers. (* means equal contribution). IEEE Journal on Selected Areas in Communications (JSAC). 2019, 37(3), pp. 540-555. IF: 7.172,  JCR Q1. 
+[14] Liang Lv*, **Yuchao Zhang***, Yusen Li, Ke Xu, Dan Wang, Minghui Li, Xuan Cao, Qingqing Liang, Wendong Wang. Communication-aware Container Placement and Reassignment in Large-scale Internet Data Centers. (* means equal contribution). IEEE Journal on Selected Areas in Communications (JSAC). 2019, 37(3), pp. 540-555. IF: 7.172,  **JCR Q1**. 
 [13] **Yuchao Zhang**, Pengmiao Li, Zhili Zhang, Bo Bai, Gong Zhang, Wendong Wang, Bo Lian. Challenges and Chances for the Emerging Short Video Network. IEEE International Conference on Computer Communications (Infocom'2019) Poster. 29 April - 2 May, Paris, France. 
 [12] Meng Shen, Yiting Liu, Siqi Chen, Liehuang Zhu, **Yuchao Zhang**. Webpage Fingerprinting Using Only Packet Length Information. IEEE International Conference on Communications (ICC). 20-24 May, Shanghai, China.
 
 2018
 [11] **Yuchao Zhang**, Junchen Jiang, Ke Xu, Xiaohui Nie, Martin J. Reed, Haiyang Wang, Guang Yao, Miao Zhang, Kai Chen. BDS: A Near-Optimal Overlay Network for Inter-Datacenter Data Replication. In Proceedings of the ACM Thirteenth Eurosys Conference, 2018, pp.10-23. 23-26 April, Porto, Portugal. 
 [10] **Yuchao Zhang**, Ke Xu, Xuelin Shi, Haiyang Wang, Jiangchuan Liu, Yong Wang. Design, Modeling, and Analysis of Online Combanatorial Double Auction for Mobile Cloud Computing Markets. International Journal of Communication Systems, 2018, May, 31(7), pp. e3460. IF: 1.717, JCR Q4.
-[9] **Yuchao Zhang**, Ke Xu, Haiyang Wang, Meng Shen, Qi Li, Tong Li. Going Fast and Fair: Latency Optimization for Cloud-based Service Chains.  IEEE Network, 2018, 32(2), pp. 138-143. IF: 7.230, JCR Q1.
+[9] **Yuchao Zhang**, Ke Xu, Haiyang Wang, Meng Shen, Qi Li, Tong Li. Going Fast and Fair: Latency Optimization for Cloud-based Service Chains.  IEEE Network, 2018, 32(2), pp. 138-143. IF: 7.230, **JCR Q1**.
 
 2017
 [8] **Yuchao Zhang**. 数据中心网络业务处理流程中的资源管理优化. (PhD Thesis, in Chinese)
