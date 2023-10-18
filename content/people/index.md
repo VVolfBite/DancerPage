@@ -70,7 +70,6 @@ sections:
 
   <br/>
 
-
 **Congratulations!**
 
 * Xiaoxi Xue, Haoran Zhang, Zekun Han. 2023 Postgraduate Innovation and Entrepreneurship Project -- Level A，2023年研究生创新创业项目A级！
