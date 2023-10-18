@@ -9,5 +9,3 @@ banner:
   caption: ''
   image: ''
 ---
-
-### This is a content event test page.

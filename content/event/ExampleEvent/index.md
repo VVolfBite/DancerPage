@@ -1,12 +1,12 @@
 ---
 # 外显示标题
-title: ExampleEvent
+title: ExampleDemo
 # 外显示总结
 summary: An example event.
 
 # 内显示事件以及链接
-event: Wowchemy Conference
-event_url: https://example.org
+event: ExampleDemo
+event_url: https://github.com
 # 内显示事件地点
 location: Wowchemy HQ
 address:
@@ -61,4 +61,4 @@ slides:
 projects:
 ---
 
-# 这里正常书写事件
+# 这里正常书写Demo
