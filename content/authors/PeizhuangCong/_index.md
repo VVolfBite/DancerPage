@@ -27,7 +27,10 @@ education:
       year: 2023
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/
 
 email: ''
 

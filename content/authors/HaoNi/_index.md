@@ -27,7 +27,10 @@ education:
       year: 2020
 
 # Social/Academic Networking
-social: []
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/
 
 email: ''
 
