@@ -17,10 +17,10 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest Project
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''

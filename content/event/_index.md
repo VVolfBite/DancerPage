@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Recent & Upcoming Demo Work
 
 # Listing view
 view: compact
