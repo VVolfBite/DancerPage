@@ -25,7 +25,6 @@ sections:
 ---
 
 
-
 <br/>
 
 **I'm lucky to work with the following students.**
