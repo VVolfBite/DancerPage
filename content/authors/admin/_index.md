@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm leading the DANCE (Data And Network CoordinatE) Group, and looking for self-motivated students to work with me at BUPT. Please feel free to drop me an email with your CV after reading [this](./dance_group.pptx).
+bio: I'm leading the DANCE (Data And Network CoordinatE) Group, and looking for self-motivated students to work with me at BUPT.
 
 interests:
   - Data Driven Network
