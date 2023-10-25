@@ -15,6 +15,24 @@ sections:
         <br>
         (Data And Network CoordinatE) Group
   
+  - block: collection
+    content:
+      title: Latest Project
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
   
   - block: markdown
     content:
@@ -25,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: team2.jpg
+          filename: team.jpg
           filters:
             brightness: 1
           parallax: false
